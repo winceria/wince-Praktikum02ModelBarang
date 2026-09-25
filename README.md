@@ -1,0 +1,2 @@
+# wince-Praktikum02ModelBarang
+
